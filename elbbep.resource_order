@@ -1,0 +1,12 @@
+{
+  "FolderOrderSettings":[
+    {"name":"sounds","order":4,"path":"folders/sounds.yy",},
+    {"name":"sprites","order":1,"path":"folders/sprites.yy",},
+    {"name":"tilesets","order":3,"path":"folders/tilesets.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"snd_jump","order":1,"path":"sounds/snd_jump/snd_jump.yy",},
+    {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"spr_tiles","order":2,"path":"sprites/spr_tiles/spr_tiles.yy",},
+  ],
+}
